@@ -9,4 +9,4 @@ Run visual.py to visualize the data distribution.
 
 ![image](https://github.com/zhanggun/KGM/blob/main/modal.jpg)
 
-
+Future work will continue.
