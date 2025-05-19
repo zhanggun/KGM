@@ -9,4 +9,4 @@ Run visual.py to visualize the data distribution.
 
 ![image](https://github.com/zhanggun/KGM/blob/main/modal.jpg)
 
-Future work will continue.
+Future work will continue. This work is based on Koopman and Yolo. Thanks to the efforts of the relevant teams.
