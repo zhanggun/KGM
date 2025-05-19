@@ -7,4 +7,6 @@ Run train.py to parse the characteristics of high-speed traffic flow, and analyz
 
 Run visual.py to visualize the data distribution.
 
-![image](https://github.com/zhanggun/KGM/blob/main/KGM_decision.jpg)
+![image](https://github.com/zhanggun/KGM/blob/main/modal.jpg)
+
+
