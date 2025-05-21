@@ -12,7 +12,7 @@ Run visual.py to visualize the data distribution.
 Future work will continue. This work is based on Koopman and Yolo. Thanks to the efforts of the relevant teams.
 
 Citation
-@inproceedings{BAT,
+@inproceedings{KGM,
   title={Koopman Graph Mamba: An Efficient Interpretable Dynamic Decision-Making Model for Highway Emergency Lane Control},
   author={Hao Li, Zi Wang, Haoran Zhang, Wenning Hao, Li Xiang, Xiaoyu Xie},
   journaltitle={Virtual Reality & Intelligent Hardware},
