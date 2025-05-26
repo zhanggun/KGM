@@ -14,7 +14,7 @@ Future work will continue. This work is based on Koopman and Yolo. Thanks to the
 
 # Citation
 @inproceedings{KGM,
-  title={Koopman Graph Mamba: An Efficient Interpretable Dynamic Decision-Making Model for Highway Emergency Lane Control},
+  title={Koopman Graph Mamba: An Interpretable Dynamic Decision Model},
   author={Hao Li, Zi Wang, Haoran Zhang, Wenning Hao, Li Xiang, Xiaoyu Xie},
   journaltitle={ZTE Communications},
   year={2025}
